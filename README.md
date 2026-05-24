@@ -17,7 +17,7 @@
 - 復古像素風格 + 爽快打擊感
 - 無盡模式，挑戰你的極限樓層
 ## 🎯 立即遊玩
-👉 [點擊踏上勇者之路](https://greycrow2019.github.io/Overtime-War/)
+👉 [點擊踏上勇者之路](https://greycrow2019.github.io/z-tower/)
 
 喜歡的話歡迎 Star ⭐、分享給朋友和同事，讓更多勇者齊集挑戰！
 
